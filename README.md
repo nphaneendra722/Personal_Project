@@ -34,12 +34,15 @@ Practical feature engineering and preparation
 Training and evaluating multiple machine learning models
 Extracting insights in a way that supports decision-making
 Repository Structure
+
 Personal_Project/
 │
 ├── CARE_CREW (3).ipynb           # Initial EDA and basic cleaning
 ├── Project_CareCrew (1).ipynb    # Modeling, feature engineering, evaluation
 ├── Dataset.md                    # Dataset explanation and variable details
 └── README.md                     # Project description (this file)
+
+
 How to Use This Repository
 Open the notebooks in Jupyter or Google Colab.
 Start with CARE_CREW (3).ipynb to understand the dataset.
