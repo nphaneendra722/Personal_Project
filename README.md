@@ -1,5 +1,5 @@
 # Personal_Project
-CareCrew – Data Analysis & Machine Learning Project
+CareCrew – Agentic multimodal medical assistant
 This repository contains a complete exploratory and modeling workflow built around the CareCrew dataset. The project focuses on understanding the data, identifying meaningful patterns, preparing the features, and building machine learning models to extract insights and make predictions.
 All of the work is developed inside the two main notebooks in this folder, and the dataset details are documented separately for clarity.
 Project Contents
